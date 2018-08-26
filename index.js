@@ -13,5 +13,5 @@ function logWhisper(string) {
   console.log("hello")
 }
 function sayHiToGrandma(string) {
-  return mixedCase.toLowerCase() === mixedCase
+  return string.mixedCase.toLowerCase() === mixedCase
 }
